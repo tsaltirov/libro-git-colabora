@@ -1,1 +1,2 @@
-Todor Saltirov Ivanov
+nombre:Todor Saltirov Ivanov
+correo: todgeosal@alu.edu.gva.es
